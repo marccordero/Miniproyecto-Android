@@ -27,8 +27,8 @@ class Formulario : AppCompatActivity() {
 
     private val SMTP_HOST = "smtp.gmail.com"
     private val SMTP_PORT = "587"
-    private val EMAIL = "marccordero003@gmail.com"
-    private val PASSWORD = "fznttxvntpqgwcuc"
+    private val EMAIL = "EMAIL ACCOUNT"
+    private val PASSWORD = "SMTP PASSWORD"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
